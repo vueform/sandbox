@@ -1,7 +1,17 @@
-# Vue 3 + Vite
+<img src="./public/logo.svg" width="100">
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Vueform Sandbox
 
-## Recommended IDE Setup
+Use this sandbox to reproduce issues.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Usage
+
+### Step 1: Fork (requires login)
+
+### Step 2: Make changes
+
+### Step 3: Copy the **new** url
+Eg. `https://codesandbox.io/p/sandbox/goofy-silence-9tvzgq`
+
+**Make sure it's not the original!**
+`https://codesandbox.io/p/sandbox/github/vueform/sandbox/tree/main`
