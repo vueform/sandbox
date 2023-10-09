@@ -1,4 +1,4 @@
-<img src="./public/logo.svg" width="100">
+<img src="https://raw.githubusercontent.com/vueform/vite-starter/main/assets/logo.svg" width="228">
 
 # Vueform Sandbox
 
